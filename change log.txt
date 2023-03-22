@@ -1,0 +1,12 @@
+CHANGE LOG
+
+
+22/03/2023
+
+- Added setting that closes HSH Hub when opening one of the games
+- Bug fixes
+
+
+08/03/2023
+
+- Public release
