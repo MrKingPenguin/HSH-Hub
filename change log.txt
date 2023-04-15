@@ -1,6 +1,12 @@
 CHANGE LOG
 
 
+15/04/2023
+
+- HSH Hub is now centered when opened
+- Bug fixes
+
+
 22/03/2023
 
 - Added setting that closes HSH Hub when opening one of the games
