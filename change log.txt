@@ -1,6 +1,12 @@
 CHANGE LOG
 
 
+20/04/2023
+
+- Disabled the maximise button
+- Bug fixes
+
+
 15/04/2023
 
 - HSH Hub is now centered when opened
