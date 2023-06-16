@@ -1,24 +1,30 @@
 CHANGE LOG
 
 
-20/04/2023
+16/06/2023
+v0.1.4
+- Added link the the discord
+- Added link to the wiki
 
+
+20/04/2023
+v0.1.3
 - Disabled the maximise button
 - Bug fixes
 
 
 15/04/2023
-
+v0.1.2
 - HSH Hub is now centered when opened
 - Bug fixes
 
 
 22/03/2023
-
+v0.1.1
 - Added setting that closes HSH Hub when opening one of the games
 - Bug fixes
 
 
 08/03/2023
-
+v0.1.0
 - Public release
